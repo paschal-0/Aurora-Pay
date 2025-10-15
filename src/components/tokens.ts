@@ -8,6 +8,7 @@ export const colors = {
   surface: "#FFFFFF",     // Card or elevated surfaces
   textPrimary: "#111111", // Main text color
   textSecondary: "#666666", // Muted text or placeholder
+  muted: "#666666",       // Added: semantic 'muted' color (same as textSecondary)
   success: "#16A34A",     // Success state
   error: "#DC2626",       // Error state
   border: "#E6E6F0",      // Border and divider color
